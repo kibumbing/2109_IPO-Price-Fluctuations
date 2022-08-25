@@ -1,4 +1,4 @@
-# 2109_IPO Price Fluctuations
+# 2109_IPO-Price-Fluctuations
 Making a Graph of Price Changes in Korean IPO Stocks
 
 1. Use web crawling to store all past IPO shares on www.38.co.kr/html/fund/.
